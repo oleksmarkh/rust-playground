@@ -7,6 +7,8 @@ $ cargo new <...> && cd <...>
 $ cargo build [--release]
 $ cargo run
 $ cargo check
+$ cargo update
+$ cargo doc --open
 ```
 
 # settings

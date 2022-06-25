@@ -18,6 +18,7 @@ $ cargo doc --open
 ```json
 ...
 "rust-analyzer.linkedProjects": [
-  "/.../rust-playground/guessing_game/Cargo.toml"
+  "rust-playground/2_guessing_game/Cargo.toml",
+  "rust-playground/3_variables/Cargo.toml",
 ]
 ```

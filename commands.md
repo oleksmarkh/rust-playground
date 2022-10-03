@@ -4,10 +4,13 @@ $ rustc --version
 $ rustup update
 
 $ cargo new <...> && cd <...>
+$ cargo check
+$ cargo fmt
+$ cargo clippy
 $ cargo build [--release]
 $ cargo run
-$ cargo check
 $ cargo update
+$ cargo tree
 $ cargo doc --open
 ```
 
